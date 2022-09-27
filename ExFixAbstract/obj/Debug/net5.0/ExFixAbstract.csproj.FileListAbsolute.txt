@@ -1,0 +1,16 @@
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\obj\Debug\net5.0\ExFixAbstract.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\obj\Debug\net5.0\ExFixAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\obj\Debug\net5.0\ExFixAbstract.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\obj\Debug\net5.0\ExFixAbstract.AssemblyInfo.cs
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\obj\Debug\net5.0\ExFixAbstract.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\bin\Debug\net5.0\ExFixAbstract.exe
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\bin\Debug\net5.0\ExFixAbstract.deps.json
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\bin\Debug\net5.0\ExFixAbstract.runtimeconfig.json
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\bin\Debug\net5.0\ExFixAbstract.runtimeconfig.dev.json
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\bin\Debug\net5.0\ExFixAbstract.dll
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\bin\Debug\net5.0\ref\ExFixAbstract.dll
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\bin\Debug\net5.0\ExFixAbstract.pdb
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\obj\Debug\net5.0\ExFixAbstract.dll
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\obj\Debug\net5.0\ref\ExFixAbstract.dll
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\obj\Debug\net5.0\ExFixAbstract.pdb
+C:\Users\peter\source\repos\ExFixAbstract\ExFixAbstract\obj\Debug\net5.0\ExFixAbstract.genruntimeconfig.cache
